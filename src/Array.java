@@ -9,6 +9,6 @@ public class Array {
 //        }
 //        System.out.println(Arrays.toString(arr));
         String s = "Om";
-        s.compareTo()
+        System.out.println(s.compareTo("a"));
     }
 }
